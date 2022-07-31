@@ -9,6 +9,7 @@
 *.db
 
 .idea
+
 # Package Files #
 *.jar
 *.war
